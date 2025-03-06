@@ -1,0 +1,6 @@
+colorama==0.4.6
+loguru==0.7.2
+tornado==6.4.1
+win32-setctime==1.1.0
+flask
+
